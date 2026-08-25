@@ -137,9 +137,9 @@ export default function App() {
           <>
             <section className="hero">
               <div>
-                <p className="eyebrow">AUGUST 2026</p>
-                <h1>Know where your money goes.</h1>
-                <p className="heroText">Track income, expenses and budgets in one clean dashboard.</p>
+                
+                <h1>Take control of your money.</h1>
+                <p className="heroText">Manage your income, expenses, and budgets without the complexity.</p>
               </div>
               <div className="actions">
                 <button className="btn ghost" onClick={() => setBudgetOpen(true)}>
