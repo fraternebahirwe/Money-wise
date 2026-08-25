@@ -30,7 +30,7 @@ const CATEGORY_HELP = {
 
 const DEFAULT_DATA = {
   transactions: [
-    { id: "seed-1", description: "Monthly allowance", amount: 850000, type: "income", category: "Other", date: "2026-08-02" },
+    { id: "seed-1", description: "Monthly allowance", amount: 100,000, type: "income", category: "Other", date: "2026-08-02" },
     { id: "seed-2", description: "Groceries", amount: 120000, type: "expense", category: "Food", date: "2026-08-04" },
     { id: "seed-3", description: "Transport", amount: 45000, type: "expense", category: "Transport", date: "2026-08-07" },
     { id: "seed-4", description: "JavaScript course", amount: 95000, type: "expense", category: "Education", date: "2026-08-10" }
