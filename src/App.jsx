@@ -120,7 +120,7 @@ export default function App() {
           ))}
         </nav>
         <button className="btn primary topAdd" onClick={() => setTxOpen(true)}>
-          <Plus size={17} /> Add transaction
+          <Plus size={17} /> Add Transaction
         </button>
       </header>
 
@@ -139,7 +139,7 @@ export default function App() {
               <div>
                 
                 <h1>Take control of your money.</h1>
-                <p className="heroText">Manage your income, expenses, and budgets without the complexity.</p>
+                <p className="heroText">Manage your income, expenses, and budgets easily without the complexity.</p>
               </div>
               <div className="actions">
                 <button className="btn ghost" onClick={() => setBudgetOpen(true)}>
